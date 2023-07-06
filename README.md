@@ -28,7 +28,7 @@ make down
 
 **Info**
 
--   Base environment: openjdk:17.0.2-jdk
+-   Base environment: `openjdk:17.0.2-jdk`
 -   Port: 9000
 
 **Run**
